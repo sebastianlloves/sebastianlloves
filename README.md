@@ -7,14 +7,6 @@
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **sebastianlloves@gmail.com**
-  
-<br/>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sebastianlloves" target="blank"><img align="center" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" alt="sebastianlloves" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/seballoves" target="blank"><img align="center" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" alt="seballoves" height="30" width="40" /></a>
-</p>
 
 <br/>
 
@@ -28,3 +20,13 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+
+<br/>
+<br/>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sebastianlloves" target="blank"><img align="center" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" alt="sebastianlloves" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/seballoves" target="blank"><img align="center" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" alt="seballoves" height="30" width="40" /></a>
+</p>
