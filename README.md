@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastián Lloves</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A hard-working frontend developer from Argentina</h3>
 <br/>
 
 - 🌱 I’m currently learning **Next JS and Typescript**
