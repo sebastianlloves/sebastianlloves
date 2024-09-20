@@ -2,14 +2,13 @@
 <h3 align="center">Front-end developer from Argentina</h3>
 <br/>
 
-- 🌱 I’m currently learning **Next JS**
-
 - 📫 How to reach me **sebastianlloves@gmail.com**
 
 <br/>
 
 <h3 align="left" >Languages and Tools:</h3>
-<a href="https://www.typescriptlang.org//" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescipt" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="next.js" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescipt" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
